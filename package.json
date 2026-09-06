@@ -1,0 +1,10 @@
+{
+  "name": "flhagent1-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FLH-ONE J.A.R.V.I.S Autonomous Web Deployment Sandbox",
+  "scripts": {
+    "build": "echo 'Build successful'",
+    "start": "serve ."
+  }
+}
